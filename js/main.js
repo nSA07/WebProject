@@ -1,0 +1,1 @@
+(()=>{const e=document.querySelector(".header__nav"),t=document.querySelector(".icon-menu"),c=document.getElementsByTagName("body");t.addEventListener("click",(function(){e.classList.toggle("active"),c[0].classList.toggle("lock")}))})();
